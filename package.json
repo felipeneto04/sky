@@ -1,0 +1,16 @@
+{
+  "name": "sky",
+  "version": "1.0.0",
+  "description": "Criando um projeto do zero pela primeira vez",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
