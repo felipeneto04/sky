@@ -1,2 +1,2 @@
 # sky
-Criando um projeto do zero pela primeira vez
+Projeto dedicado a estudos para monitoramentos
